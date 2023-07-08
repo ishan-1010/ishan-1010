@@ -1,4 +1,4 @@
-<img align="center" width=1100 alt="coding" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif">
+<img align="center" width=1100 alt="coding" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 
 <h1 align="center">Heya, it's Ishan Katoch</h1>
@@ -14,6 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ishan-1010&theme=light&show_icons=true" alt="ishan-1010" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishan-1010&show_icons=true&locale=en&layout=compact" alt="ishan-1010" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-1010&" alt="ishan-1010" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan-1010&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-1010" /> </p>
