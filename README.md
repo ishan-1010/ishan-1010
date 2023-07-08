@@ -1,12 +1,8 @@
-<img align="center" width=1100 alt="coding" src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif">
+<img align="center" width=1100 alt="coding" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif">
 
 
 <h1 align="center">Heya, it's Ishan Katoch</h1>
 <h2 align="center">An Artificial Intelligence Wizard 🧙</h2>
-
-⚡ Fun fact **I look mature than I am**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
