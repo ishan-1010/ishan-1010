@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Heya, it's Ishan Katoch</h1>
-<h3 align="center">An Artificial Intelligence Wizard 🧙</h3>
+<h2 align="center">An Artificial Intelligence Wizard 🧙</h2>
 
 ⚡ Fun fact **I look mature than I am**
 
