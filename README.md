@@ -1,7 +1,8 @@
 <img align="center" width=1100 alt="coding" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 
-<h1 align="center">Heya, it's <strong>Ishan Katoch</strong></h1>
+<h1 align="center">Heya<img align="center" src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" style="max-width: 100%;"> it's <strong>Ishan Katoch</strong></h1>
+
 <h2 align="center"><i>An <strong>Atificial Intelligence Wizard</strong></i> 🧙</h2>
 
 <h3 align="left">Connect with the guy :</h3>
@@ -16,3 +17,6 @@
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ishan-1010&show_icons=true&locale=en&layout=compact" alt="ishan-1010" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan-1010&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-1010" /> </p>
+
+
+  ![Snake animation](https://github.com/ishan-1010/ishan-1010/blob/output/github-contribution-grid-snake.svg)
