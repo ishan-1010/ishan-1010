@@ -3,7 +3,7 @@
 <h2 align="center"><i>An <strong>Atificial Intelligence Wizard</strong></i> 🧙</h2>
 
 
-<img align="center" width=1100 alt="coding" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
+<img align="center" width=1100 alt="coding" src="https://github.com/ishan-1010/ishan-1010/assets/98383932/01da6eed-e7f8-479f-9d6b-8a6c340ce335">
 
 
 
@@ -21,3 +21,5 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishan-1010&label=Ishan's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ishan-1010" /> </p>
 
+
+<img align="center" width=1100 alt="coding" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
