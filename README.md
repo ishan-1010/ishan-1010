@@ -18,4 +18,3 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishan-1010&label=Ishan's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ishan-1010" /> </p>
 
-  ![Snake animation](https://github.com/ishan-1010/ishan-1010/blob/output/github-contribution-grid-snake.svg)
