@@ -1,6 +1,6 @@
 <h1 align="center">Heya<img align="center" src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" style="max-width: 100%;"> it's <strong>Ishan Katoch</strong></h1>
 
-<h2 align="center"><i>An <strong>Atificial Intelligence Wizard</strong></i> 🧙</h2>
+<h2 align="center"><i>An <strong>Artificial Intelligence Enthusiast</strong></i> 🧙</h2>
 
 
 <img align="center" width=1100 alt="coding" src="https://github.com/ishan-1010/ishan-1010/assets/98383932/01da6eed-e7f8-479f-9d6b-8a6c340ce335">
@@ -19,7 +19,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-1010&theme=algolia" alt="ishan-1010" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ishan-1010&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ishan-1010" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishan-1010&label=Ishan's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ishan-1010" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishan-1010&label=My%20Profile's%20Views%20&color=dc143c&style=plastic" alt="ishan-1010" /> </p>
 
 
 <img align="center" width=1100 alt="coding" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
