@@ -3,8 +3,7 @@
 <h2 align="center"><i>An <strong>Artificial Intelligence Enthusiast</strong></i> 🧙</h2>
 
 
-<img align="center" width=1100 alt="coding" src="https://github.com/ishan-1010/ishan-1010/assets/98383932/01da6eed-e7f8-479f-9d6b-8a6c340ce335">
-
+<img align="center" width=1100 alt="coding" src="https://github.com/ishan-1010/ishan-1010/assets/98383932/3bd9ce6e-91f8-4ef2-a70b-e3784835a8c5">
 
 
 
