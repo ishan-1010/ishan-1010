@@ -2,8 +2,8 @@
 
 <h2 align="center"><i>An <strong>Artificial Intelligence Enthusiast</strong></i> 🧙</h2>
 
-
-<img align="center" width=1100 alt="coding" src="https://github.com/ishan-1010/ishan-1010/assets/98383932/3bd9ce6e-91f8-4ef2-a70b-e3784835a8c5">
+<br>
+<img align="center" width=1100 alt="coding" src="https://github.com/user-attachments/assets/ffb0cab8-8de0-403a-b546-72fd0db3c3f8">
 
 
 
